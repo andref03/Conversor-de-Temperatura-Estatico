@@ -1,10 +1,10 @@
 package br.ifnmg.edu.conversortemperaturaestatico;
 
 /**
- *
+ * Classe principal do programa, com o método estático main.
  * @author André (@andref03)
  */
-public class Conversortemperaturaestatico {
+public class ConversorTemperaturaEstatico {
 
     public static void main(String[] args) {
 
