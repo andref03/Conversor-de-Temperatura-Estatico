@@ -1,7 +1,8 @@
 package br.ifnmg.edu.conversortemperaturaestatico;
 
 /**
- *
+ * Esta classe possui 6 métodos implementados para as conversões de temperatura
+ * Kelvin, Celsius e Fahrenheit.
  * @author André (@andref03)
  */
 public class ConversorFormulas {
